@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick
-- 👀 Quantitative Mathematics, Data Science, Software Engineering, Cyber Engineering, Tax Credits, Accounting & Finance.
+- 👀 Quantitative Analytics, Data Science, Software Engineering, Cyber Engineering, Tax Credits, Accounting & Finance.
 - 🌱 I’m currently learning web pen-testing & statistical mechanics
 - 📫 npastrana15@outlook.com
 - ⚡ Proficient in:
