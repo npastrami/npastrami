@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick
+- 👋 Hi, I’m Nick, a software engineer talented at document and data automation.
 - 👀 Quantitative Analytics, Data Science, Software Engineering, Cyber Engineering, Tax Strategy, Accounting & Finance.
 - 🌱 I’m currently learning web pen-testing & statistical mechanics
 - 📫 npastrana15@outlook.com
