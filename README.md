@@ -47,7 +47,6 @@
 ![Debian](https://img.shields.io/badge/debian-D70A53?style=plastic&logo=debian&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![Selenium](https://img.shields.io/badge/selenium-%23009639.svg?style=plastic&logo=selenium&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=plastic&logo=qt&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white) 
