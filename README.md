@@ -74,5 +74,9 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 
 
+[![My Devpost Hackathon Badge](https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/930/137/datas/fe7da55a06691d0a0fa2fb2f32d9d352_medium_bronze.png)](https://devpost.com/nickpastrana15/achievements)
 [![My Credly ML Badge](https://images.credly.com/size/100x100/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](https://www.credly.com/badges/97c0aa92-2d8e-4451-9d0e-dc1d3b1a3e7c/public_url)
+[![Devpost Badge 2](https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/552/datas/c1387e1971cd2d0e67200d956b460c07_medium_bronze.png)](https://devpost.com/nickpastrana15/achievements)
 [![My Credly Cloud Badge](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5ccdb85c-6414-49ee-bb1e-85ed9a58edf5/public_url)
+[![Devpost Badge 3](https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/551/datas/ceffdfce970ff3dfa4435ebc5fc7f33a_medium.png)](https://devpost.com/nickpastrana15/achievements)
+[![Devpost Badge 4](https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/220/datas/d431f7b4f3a71b2b35881ea755e24613_medium.png)](https://devpost.com/nickpastrana15/achievements)
