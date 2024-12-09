@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick, a software engineer talented at Business Intelligence and Blockchain.
 - 👀 Interested in Algorithms Engineering
-- 🌱 I’m currently studying Zero-knowledge proofs & statistical mechanics
+- 🌱 Currently studying Zero-Knowledge Proofs & Time Series Momentum
 - 📫 npastrana15@outlook.com
 - ⚡ Proficient in:
 
