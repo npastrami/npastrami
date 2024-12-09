@@ -27,7 +27,7 @@
 ![QuickBooks](https://img.shields.io/badge/QuickBooks-4CAF50?style=plastic&logo=intuit&logoColor=white)
 ![Xero](https://img.shields.io/badge/Xero-00B3E6?style=plastic&logo=xero&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
