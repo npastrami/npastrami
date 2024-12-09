@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick, a software engineer talented at Business Intelligence and Blockchain.
-- 👀 Algorithms Engineering, Data Science, Software Engineering, Cyber Engineering, Tax Strategy, Accounting & Finance.
-- 🌱 I’m currently learning smart contract optimization & statistical mechanics
+- 👀 Interested in Algorithms Engineering
+- 🌱 I’m currently studying Zero-knowledge proofs & statistical mechanics
 - 📫 npastrana15@outlook.com
 - ⚡ Proficient in:
 
