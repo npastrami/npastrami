@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)  
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
