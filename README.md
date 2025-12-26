@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nick, a software engineer who likes to use probability and machine learning.
-- 👀 Interested in Algorithms Engineering
+- 👋 Hi, I’m Nick, a software engineer who enjoys probability and data challenges.
+- 👀 Interested in Algorithms Engineering, need to go faster...
 - 🌱 Currently studying Poker & C++
 - 📫 npastrana15@outlook.com
 - ⚡ Proficient in:
