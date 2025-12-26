@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nick, a software engineer talented at Business Intelligence and Blockchain.
+- 👋 Hi, I’m Nick, a software engineer who likes to use probability and machine learning.
 - 👀 Interested in Algorithms Engineering
-- 🌱 Currently studying Poker, C++, and Probabilistic CoT
+- 🌱 Currently studying Poker & C++
 - 📫 npastrana15@outlook.com
 - ⚡ Proficient in:
 
