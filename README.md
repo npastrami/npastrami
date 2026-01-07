@@ -19,7 +19,7 @@
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%230C4B33.svg?style=plastic&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=plastic&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
