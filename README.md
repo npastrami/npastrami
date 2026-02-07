@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick, a software engineer who enjoys probability and data challenges.
 - 👀 Interested in Algorithms Engineering & HPC, need to go faster
-- 🌱 Currently studying Poker & C++
+- 🌱 Currently studying Poker, Python & C++
 - 📫 npastrana15@outlook.com
 - ⚡ Proficient in:
 
