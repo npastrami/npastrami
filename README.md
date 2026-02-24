@@ -1,18 +1,32 @@
 👋 Hi, I’m Nick, a programmer who enjoys probability and data challenges.
+
 👀 Interested in Algorithms Engineering & HPC, need to go faster
+
 🌱 Currently studying Poker, Python & C++
 
+-----------------------------------------------------------------------------
+
 will dev meme projects for token:
+
 📫 npastrana15@outlook.com
 
-Hackathon Enjoyer:
-🥇 Hedera, On-Chain Automation @ EthDenver 2026
-🥉 Monad Blitz @ EthDenver 2026
-🥇 Wolfram Alpha @ ShellHacks 2025
-❌ IMC Prosperity 3
-🥇 SpeedRunEth @ EthMiami, ShellHacks 2024
+-----------------------------------------------------------------------------
 
-⚡ Proficient in:
+Hackathon Enjoyer:
+
+🥇 Hedera, On-Chain Automation @ EthDenver 2026
+
+🥉 Monad Blitz @ EthDenver 2026
+
+🥇 Wolfram Alpha @ ShellHacks 2025
+
+❌ IMC Prosperity 3
+
+🥇 SpeedRunEth & ScaffoldEth @ EthMiami, ShellHacks 2024
+
+-----------------------------------------------------------------------------
+
+-⚡ Proficient in:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoft-azure&logoColor=white) 
