@@ -1,4 +1,4 @@
-👋 Hi, I’m Nick, a programmer who enjoys probability and data challenges.
+👋 Hi, I’m Nick, a programmer with an affinity for probability and data challenges.
 
 👀 Interested in Algorithms Engineering & HPC, need to go faster
 
