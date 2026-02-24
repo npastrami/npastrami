@@ -26,7 +26,7 @@ Hackathon Enjoyer:
 
 -----------------------------------------------------------------------------
 
--⚡ Proficient in:
+⚡ Proficient in:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoft-azure&logoColor=white) 
