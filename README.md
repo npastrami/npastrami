@@ -2,7 +2,7 @@
 
 👀 Interested in Algorithms Engineering & HPC, need to go faster
 
-🌱 Currently studying Poker, Python & C++
+🌱 Currently studying MEV & Rust
 
 -----------------------------------------------------------------------------
 
@@ -38,7 +38,6 @@ Hackathon Enjoyer:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-%230C4B33.svg?style=plastic&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=plastic&logo=fastapi&logoColor=white)
