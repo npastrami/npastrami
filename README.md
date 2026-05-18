@@ -14,13 +14,17 @@ will dev meme projects for token:
 
 Hackathon Enjoyer:
 
+Coinbase x AWS @ Consensus Miami 2026
+
+IMC Prosperity 4
+
 🥇 Hedera, On-Chain Automation @ EthDenver 2026
 
 🥉 Monad Blitz @ EthDenver 2026
 
 🥇 Wolfram Alpha @ ShellHacks 2025
 
-❌ IMC Prosperity 3
+IMC Prosperity 3
 
 🥇 SpeedRunEth & ScaffoldEth @ EthMiami, ShellHacks 2024
 
