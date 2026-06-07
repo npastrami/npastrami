@@ -2,7 +2,7 @@
 
 👀 Interested in Algorithms Engineering & HPC, need to go faster
 
-🌱 Currently studying MEV & Rust
+🌱 Currently studying Poker, Python & Rust
 
 -----------------------------------------------------------------------------
 
